@@ -23,7 +23,10 @@ h1 {
 
 img {
     width: 150px;
-    float:  left;
-    margin-right: 20px;
-    margin-bottom: 20px;
 }
+
+.images {
+    border: 3px dashed #f88;
+}
+
+
